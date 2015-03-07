@@ -1,0 +1,154 @@
+20:13:58 R <xml><ToUserName><![CDATA[gh_518ac6116bb9]]></ToUserName>
+<FromUserName><![CDATA[oU2nYtwO_A6wqow2F4jl_QTFibz8]]></FromUserName>
+<CreateTime>1425557638</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6122723433991827662</MsgId>
+</xml>
+20:13:58 T <xml>
+<ToUserName><![CDATA[oU2nYtwO_A6wqow2F4jl_QTFibz8]]></ToUserName>
+<FromUserName><![CDATA[gh_518ac6116bb9]]></FromUserName>
+<CreateTime>1425557638</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2015-03-05 20:13:58
+技术支持 POB]]></Content>
+</xml>
+20:14:13 R <xml><ToUserName><![CDATA[gh_518ac6116bb9]]></ToUserName>
+<FromUserName><![CDATA[oU2nYtwO_A6wqow2F4jl_QTFibz8]]></FromUserName>
+<CreateTime>1425557653</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[单图文]]></Content>
+<MsgId>6122723498416337118</MsgId>
+</xml>
+20:14:13 T <xml>
+<ToUserName><![CDATA[oU2nYtwO_A6wqow2F4jl_QTFibz8]]></ToUserName>
+<FromUserName><![CDATA[gh_518ac6116bb9]]></FromUserName>
+<CreateTime>1425557653</CreateTime>
+<MsgType><![CDATA[news]]></MsgType>
+<Content><![CDATA[]]></Content>
+<ArticleCount>1</ArticleCount>
+<Articles>
+    <item>
+        <Title><![CDATA[单图文标题]]></Title>
+        <Description><![CDATA[单图文内容]]></Description>
+        <PicUrl><![CDATA[http://discuz.comli.com/weixin/weather/icon/cartoon.jpg]]></PicUrl>
+        <Url><![CDATA[http://www.jsy100.net/]]></Url>
+    </item>
+</Articles>
+</xml>
+20:14:24 R <xml><ToUserName><![CDATA[gh_518ac6116bb9]]></ToUserName>
+<FromUserName><![CDATA[oU2nYtwO_A6wqow2F4jl_QTFibz8]]></FromUserName>
+<CreateTime>1425557664</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[多图文]]></Content>
+<MsgId>6122723545660977388</MsgId>
+</xml>
+20:14:24 T <xml>
+<ToUserName><![CDATA[oU2nYtwO_A6wqow2F4jl_QTFibz8]]></ToUserName>
+<FromUserName><![CDATA[gh_518ac6116bb9]]></FromUserName>
+<CreateTime>1425557664</CreateTime>
+<MsgType><![CDATA[news]]></MsgType>
+<Content><![CDATA[]]></Content>
+<ArticleCount>3</ArticleCount>
+<Articles>
+    <item>
+        <Title><![CDATA[多图文1标题]]></Title>
+        <Description><![CDATA[]]></Description>
+        <PicUrl><![CDATA[http://discuz.comli.com/weixin/weather/icon/cartoon.jpg]]></PicUrl>
+        <Url><![CDATA[http://www.jsy100.net/]]></Url>
+    </item>
+    <item>
+        <Title><![CDATA[多图文2标题]]></Title>
+        <Description><![CDATA[]]></Description>
+        <PicUrl><![CDATA[http://d.hiphotos.bdimg.com/wisegame/pic/item/f3529822720e0cf3ac9f1ada0846f21fbe09aaa3.jpg]]></PicUrl>
+        <Url><![CDATA[http://www.jsy100.net/]]></Url>
+    </item>
+    <item>
+        <Title><![CDATA[多图文3标题]]></Title>
+        <Description><![CDATA[]]></Description>
+        <PicUrl><![CDATA[http://g.hiphotos.bdimg.com/wisegame/pic/item/18cb0a46f21fbe090d338acc6a600c338644adfd.jpg]]></PicUrl>
+        <Url><![CDATA[http://www.jsy100.net/]]></Url>
+    </item>
+</Articles>
+</xml>
+20:14:47 R <xml><ToUserName><![CDATA[gh_518ac6116bb9]]></ToUserName>
+<FromUserName><![CDATA[oU2nYtwO_A6wqow2F4jl_QTFibz8]]></FromUserName>
+<CreateTime>1425557687</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[音乐]]></Content>
+<MsgId>6122723644445225233</MsgId>
+</xml>
+20:14:47 T <xml>
+<ToUserName><![CDATA[oU2nYtwO_A6wqow2F4jl_QTFibz8]]></ToUserName>
+<FromUserName><![CDATA[gh_518ac6116bb9]]></FromUserName>
+<CreateTime>1425557687</CreateTime>
+<MsgType><![CDATA[music]]></MsgType>
+<Music>
+    <Title><![CDATA[天空之城]]></Title>
+    <Description><![CDATA[天空之城印象集]]></Description>
+    <MusicUrl><![CDATA[http://www.jsy100.net/music.mp3]]></MusicUrl>
+    <HQMusicUrl><![CDATA[http://www.jsy100.net/music.mp3]]></HQMusicUrl>
+</Music>
+</xml>
+20:15:53 R <xml><ToUserName><![CDATA[gh_518ac6116bb9]]></ToUserName>
+<FromUserName><![CDATA[oU2nYtwO_A6wqow2F4jl_QTFibz8]]></FromUserName>
+<CreateTime>1425557752</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>30.651876</Location_X>
+<Location_Y>114.319511</Location_Y>
+<Scale>15</Scale>
+<Label><![CDATA[湖北省武汉市江岸区百步亭百合苑兴业路旁(近安居路)]]></Label>
+<MsgId>6122723923618099567</MsgId>
+</xml>
+20:15:53 T <xml>
+<ToUserName><![CDATA[oU2nYtwO_A6wqow2F4jl_QTFibz8]]></ToUserName>
+<FromUserName><![CDATA[gh_518ac6116bb9]]></FromUserName>
+<CreateTime>1425557753</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你发送的是位置，纬度为：30.651876；经度为：114.319511；缩放级别为：15；位置为：湖北省武汉市江岸区百步亭百合苑兴业路旁(近安居路)]]></Content>
+</xml>
+07:43:42 R <xml><ToUserName><![CDATA[gh_518ac6116bb9]]></ToUserName>
+<FromUserName><![CDATA[oU2nYt2Q6A8Ja4G4hp5DQNlXgebE]]></FromUserName>
+<CreateTime>1425599022</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[两会]]></Content>
+<MsgId>6122901176918428832</MsgId>
+</xml>
+07:43:42 T <xml>
+<ToUserName><![CDATA[oU2nYt2Q6A8Ja4G4hp5DQNlXgebE]]></ToUserName>
+<FromUserName><![CDATA[gh_518ac6116bb9]]></FromUserName>
+<CreateTime>1425599022</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2015-03-06 07:43:42
+技术支持 POB]]></Content>
+</xml>
+07:44:17 R <xml><ToUserName><![CDATA[gh_518ac6116bb9]]></ToUserName>
+<FromUserName><![CDATA[oU2nYt2Q6A8Ja4G4hp5DQNlXgebE]]></FromUserName>
+<CreateTime>1425599057</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[两会到]]></Content>
+<MsgId>6122901327242284229</MsgId>
+</xml>
+07:44:17 T <xml>
+<ToUserName><![CDATA[oU2nYt2Q6A8Ja4G4hp5DQNlXgebE]]></ToUserName>
+<FromUserName><![CDATA[gh_518ac6116bb9]]></FromUserName>
+<CreateTime>1425599057</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2015-03-06 07:44:17
+技术支持 POB]]></Content>
+</xml>
+07:44:24 R <xml><ToUserName><![CDATA[gh_518ac6116bb9]]></ToUserName>
+<FromUserName><![CDATA[oU2nYt2Q6A8Ja4G4hp5DQNlXgebE]]></FromUserName>
+<CreateTime>1425599064</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ty]]></Content>
+<MsgId>6122901357307055307</MsgId>
+</xml>
+07:44:24 T <xml>
+<ToUserName><![CDATA[oU2nYt2Q6A8Ja4G4hp5DQNlXgebE]]></ToUserName>
+<FromUserName><![CDATA[gh_518ac6116bb9]]></FromUserName>
+<CreateTime>1425599064</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2015-03-06 07:44:24
+技术支持 POB]]></Content>
+</xml>
