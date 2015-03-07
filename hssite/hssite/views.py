@@ -1,4 +1,4 @@
 from django.http import HttpResponse
 
 def hello(request):
-	return HttpResponse("<h1>Hello Word<h1>")
+	return HttpResponse("<h2>Hello Word...<h2>")
